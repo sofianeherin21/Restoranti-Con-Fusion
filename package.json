@@ -1,0 +1,24 @@
+{
+  "name": "git-test2",
+  "version": "1.0.0",
+  "description": "this is a test node for learning git and node",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofianeherin21/git-test2.git"
+  },
+  "author": "Sofia Neherin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofianeherin21/git-test2/issues"
+  },
+  "homepage": "https://github.com/sofianeherin21/git-test2#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
