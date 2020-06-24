@@ -1,7 +1,7 @@
 {
-  "name": "git-test2",
+  "name": "project01",
   "version": "1.0.0",
-  "description": "this is a test node for learning git and node",
+  "description": "this is a project node for learning git and node",
   "main": "index.js",
   "scripts": {
     "start": "npm run lite",
@@ -10,15 +10,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sofianeherin21/git-test2.git"
+    "url": "git+https://github.com/sofianeherin21/Project01.git"
   },
   "author": "Sofia Neherin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sofianeherin21/git-test2/issues"
+    "url": "https://github.com/sofianeherin21/Project01/issues"
   },
-  "homepage": "https://github.com/sofianeherin21/git-test2#readme",
+  "homepage": "https://github.com/sofianeherin21/Project01#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
   }
 }
