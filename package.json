@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sofianeherin21/Project01.git"
+    "url": "git+https://github.com/sofianeherin21/Restoranti-Con-Fusion.git"
   },
   "author": "Sofia Neherin",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sofianeherin21/Project01/issues"
   },
-  "homepage": "https://github.com/sofianeherin21/Project01#readme",
+  "homepage": "https://github.com/sofianeherin21/Restoranti-Con-Fusion#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
   },
