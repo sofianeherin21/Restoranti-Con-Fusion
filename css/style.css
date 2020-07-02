@@ -17,9 +17,9 @@
 
 .footer
 {
-	background: black;
+	background: coral;
 	opacity:0.9;
-	color:white;
+	color:black;
 	margin: 0px auto ;
 	padding:20px 0px;
 
@@ -40,6 +40,6 @@ address{
 
 .navbar-light
 {
-	background-color: #E0E0E0;
+	background-color: coral;
 	color: black;
 }
