@@ -17,19 +17,24 @@
 
 .footer
 {
-	background: coral;
+	background: #7D3C98;
 	opacity:0.9;
-	color:black;
+	color:white;
 	margin: 0px auto ;
 	padding:20px 0px;
 
 }
-
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
 .jumbotron{
 	margin: 0px auto;
 	padding: 70px 30px;
-	color:white;
-	background-color: black;
+	color:black;
+	background-color: #C39BD3 ;
 	opacity: .9;
 
 }
@@ -38,8 +43,8 @@ address{
 	font-size: 80%;
 }
 
-.navbar-light
+.navbar-dark
 {
-	background-color: coral;
+	background-color:#7D3C98;
 	color: black;
 }
