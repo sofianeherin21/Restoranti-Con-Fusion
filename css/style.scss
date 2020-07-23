@@ -2,6 +2,7 @@ $lt-gray: #ddd;
 $background-dark: #512DA8;
 $background-light: #9575CD;
 $background-pale: #D1C4E9;
+$color: floralwhite;
 
 // Height variables
 $carousel-item-height: 300px;
@@ -43,6 +44,7 @@ $carousel-item-height: 300px;
 
 .jumbotron{
 	@include zero-margin(70px,30px);
+	margin-top:30px;
 	color: floralwhite;
 	background-color: $background-light ;
 	opacity: .9;
@@ -86,4 +88,17 @@ body{
     position: absolute;
     bottom: 0px;
     z-index: 1;
+}
+
+.modal{
+	.modal-header{
+	   background: $background-dark;
+	   color: $color;
+	}
+	.modal-body{
+	   background: $background-pale;
+	}
+	.close{
+		color: $color;
+	}
 }
